@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [http://michaeldesign-4.web.app](http://michaeldesign-4.web.app)
 
 - 📫 How to reach me **georgeadly74@yahoo.com**
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girgis-michael)
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girgis-michael)
 
 
 
